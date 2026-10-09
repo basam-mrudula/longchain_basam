@@ -1,0 +1,17 @@
+{
+  "note": "Template only. Run `python query_examples.py` after ingesting the assessment sample PDF and starting the API to populate actual retrieved chunks and scores.",
+  "queries": [
+    {
+      "query": "What steps does the PDF ingestion pipeline perform?",
+      "results": []
+    },
+    {
+      "query": "What should the retrieval endpoint return?",
+      "results": []
+    },
+    {
+      "query": "What are the assessment deliverables and evaluation criteria?",
+      "results": []
+    }
+  ]
+}
